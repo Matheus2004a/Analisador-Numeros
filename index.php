@@ -16,10 +16,10 @@
     <form action="Maior-Num.php" method="post">
         <h2>Analisador de números</h2>
         <fieldset>
-            Digite o 1º número: <input type="number" name="num1">
+            Digite o 1º número: <input type="text" name="num1">
         </fieldset>
         <fieldset>
-            Digite o 2º número: <input type="number" name="num2">
+            Digite o 2º número: <input type="text" name="num2">
         </fieldset>
         <p>
             <?php
